@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background: linear-gradient(#1492db 0%,#d4e610 100% );
+}
+.line{
+    background-color: black;
+    width: 200px;
+    height: 6px;
+    margin: auto;
+}
+/*
+img{
+    transition: transform .5s;
+}
+img:hover{
+    transform: scale(0.9);
+}
+*/
+h2{
+    font-family: 'Staatliches', cursive;
+}
+h1{
+    font-family: 'Roboto', sans-serif;
+}
+#myslide {
+    background-color: cornflowerblue;
+}
